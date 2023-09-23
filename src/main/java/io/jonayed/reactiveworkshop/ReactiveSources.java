@@ -1,4 +1,4 @@
-package io.javabrains.reactiveworkshop;
+package io.jonayed.reactiveworkshop;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
